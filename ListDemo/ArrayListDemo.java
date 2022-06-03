@@ -6,7 +6,8 @@ import java.util.List;
 public class ArrayListDemo {
     public static void main(String args[]){
         List<Long> genericList=new ArrayList<>();
-        genericList.add(1L);
+        Boolean status=genericList.add(1L);
+        System.out.println("status: " +status);
         genericList.add(2L);
         genericList.add(3L);
         genericList.add(4L);
