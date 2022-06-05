@@ -1,5 +1,5 @@
 ### Java Cursors
-![java cursors.png](assests/java cursors.png)
+![java cursors.png](assests/java%20cursors.png)
 
 ### ListIterator
 1. It extends the iterator interface
@@ -8,7 +8,7 @@
 4. It supports bi-directional traversal. i.e both forward and backward directions.
 5. It supports all the four CRUD operations(Create, Read, Update, Delete) operations.
    
-![list iterator.png](assests/list iterator.png)
+![list iterator.png](assests/list%20iterator.png)
 
 #### ListIterator is a bi-directional iterator. For this functionality, it has two kinds of methods:
 
