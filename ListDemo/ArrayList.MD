@@ -19,4 +19,9 @@ S.NO | Method                               | Description
 10 | boolean contains(Object) | It will returns true if the array contains given object or else false.
 11 | boolean containsAll(list) | It will returns true if the array contains all the given objects or else false.
 12 | Object[] toArray() | It converts list into array of Object type.
-13 | <T> T[] toArray(T[] a) | It converts list into array of specified data type.
+13 | ```<T> T[] toArray(T[] a)``` | It converts list into array of specified data type.
+14 | boolean isEmpty() | It checks if list is empty.
+15 | boolean equals(list) | It matches two collections.
+16 | int hashCode() | It gives hashcode of the collection.
+17 | Iterator iterator() | It returns an iterator.
+18 | Spliterator<E> spliterator() | It generates a Spliterator over the specified elements in the collection.
